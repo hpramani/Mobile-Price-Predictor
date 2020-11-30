@@ -32,6 +32,7 @@ public class Knn {
 
     public static void main(String[] args) {
         HashMap<Character,Integer> hm = new HashMap<>();
+		int a,b;
         char finalClass;
         MobileData newMobile;
         Double dis;
